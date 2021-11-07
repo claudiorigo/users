@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nombre": "Claudio Rigollet",
+      "avatar": "../assets/avatars/av-1.png",
+      "email": "claudiorigo@gmail.com",
+      "password": "123456",
+      "horario": "Vespertino",
+      "sede": "Viña del Mar",
+      "telefono": "+569 5422 5035",
+      "seccion": "V002"
+    },
+    {
+      "id": 2,
+      "nombre": "Francisco Herrera",
+      "avatar": "../assets/avatars/av-2.png",
+      "email": "fran.herrera@gmail.com",
+      "telefono": "+569 6333 9635",
+      "password": "123456",
+      "horario": "Vespertino",
+      "sede": "Viña del Mar",
+      "seccion": "V003"
+    },
+    {
+      "id": 3,
+      "nombre": "Alejandra Contreras",
+      "avatar": "../assets/avatars/av-3.png",
+      "email": "a.contreras@gmail.com",
+      "telefono": "+569 6987 2214",
+      "password": "123456",
+      "horario": "Vespertino",
+      "sede": "Viña del Mar",
+      "seccion": "V005"
+    },
+    {
+      "id": 4,
+      "nombre": "Jose Torres",
+      "avatar": "../assets/avatars/av-4.png",
+      "email": "jo.torres@gmail.com",
+      "telefono": "+569 6523 5633",
+      "password": "123456",
+      "horario": "Vespertino",
+      "sede": "Viña del Mar",
+      "seccion": "V002"
+    },
+    {
+      "id": 5,
+      "nombre": "Maria Olguin",
+      "avatar": "../assets/avatars/av-5.png",
+      "email": "mar.olguin@gmail.com",
+      "password": "123456",
+      "horario": "Vespertino",
+      "sede": "Valparaiso",
+      "telefono": "+569 5374 8810",
+      "seccion": "V003"
+    }
+  ],
+  "asistencia": [
+    {
+      "id": 1,
+      "fecha": "30-10-2021",
+      "asiste": true
+    },
+    {
+      "id": 5,
+      "fecha": "30-10-2021",
+      "asiste": true
+    }
+  ]
+}
