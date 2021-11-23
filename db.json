@@ -128,6 +128,7 @@
     {
       "id": 1,
       "profesor": "Nancy Pérez",
+      "avatar": "../assets/avatars/av-do-1.png",
       "asignatura": "Programación de aplicaciones móviles",
       "seccion": "V002",
       "correo": "nan.perez@docente.duoc.cl",
@@ -136,6 +137,7 @@
     {
       "id": 2,
       "profesor": "Ajelandra Gutierrez",
+      "avatar": "../assets/avatars/av-do-2.png",
       "asignatura": "Programación Base de Datos",
       "seccion": "V001",
       "correo": "ale.gutierrez@docente.duoc.cl",
