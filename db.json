@@ -98,6 +98,17 @@
       "horario": "Vespertino",
       "sede": "Viña del Mar",
       "seccion": "V003"
+    },
+    {
+      "id": 10,
+      "nombre": "Veronica Pérez",
+      "avatar": "../assets/avatars/av-10.png",
+      "email": "ver.perez@gmail.com",
+      "telefono": "+569 8122 2025",
+      "password": "123456",
+      "horario": "Vespertino",
+      "sede": "Viña del Mar",
+      "seccion": "V002"
     }
     
   ],
