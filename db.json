@@ -123,5 +123,23 @@
       "fecha": "30-10-2021",
       "asiste": true
     }
+  ],
+  "docente": [
+    {
+      "id": 1
+      "profesor": "Nancy Pérez",
+      "asignatura": "Programación de aplicaciones móviles",
+      "seccion": "V002",
+      "correo": "nan.perez@docente.duoc.cl",
+      "asiste": true
+    },
+    {
+      "id": 2,
+      "profesor": "Ajelandra Gutierrez",
+      "asignatura": "Programación Base de Datos",
+      "seccion": "V001",
+      "correo": "ale.gutierrez@docente.duoc.cl",
+      "asiste": true
+    }
   ]
 }
