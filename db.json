@@ -13,14 +13,14 @@
     },
     {
       "id": 2,
-      "nombre": "Francisco Herrera",
+      "nombre": "Ayrton Vergara",
       "avatar": "../assets/avatars/av-2.png",
-      "email": "fran.herrera@gmail.com",
-      "telefono": "+569 6333 9635",
+      "email": "ayr.vergara@gmail.com",
+      "telefono": "+569 4225 7854",
       "password": "123456",
       "horario": "Vespertino",
       "sede": "Viña del Mar",
-      "seccion": "V003"
+      "seccion": "V002"
     },
     {
       "id": 3,
@@ -87,6 +87,17 @@
       "sede": "Viña del Mar",
       "telefono": "+569 9852 3045",
       "seccion": "V001"
+    },
+    {
+      "id": 9,
+      "nombre": "Francisco Herrera",
+      "avatar": "../assets/avatars/av-9.png",
+      "email": "fran.herrera@gmail.com",
+      "telefono": "+569 6333 9635",
+      "password": "123456",
+      "horario": "Vespertino",
+      "sede": "Viña del Mar",
+      "seccion": "V003"
     }
     
   ],
