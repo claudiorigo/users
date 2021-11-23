@@ -65,6 +65,28 @@
       "sede": "Valparaiso",
       "telefono": "+569 5877 6352",
       "seccion": "V002"
+    },
+    {
+      "id": 7,
+      "nombre": "Constanza Rodriguez",
+      "avatar": "../assets/avatars/av-7.png",
+      "email": "con.rodriguez@gmail.com",
+      "password": "123456",
+      "horario": "Vespertino",
+      "sede": "Viña del Mar",
+      "telefono": "+569 5622 2121",
+      "seccion": "V001"
+    },
+    {
+      "id": 8,
+      "nombre": "Juan Pacheco",
+      "avatar": "../assets/avatars/av-8.png",
+      "email": "ju.pacheco@gmail.com",
+      "password": "123456",
+      "horario": "Vespertino",
+      "sede": "Viña del Mar",
+      "telefono": "+569 9852 3045",
+      "seccion": "V001"
     }
     
   ],
