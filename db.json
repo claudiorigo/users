@@ -126,7 +126,7 @@
   ],
   "docente": [
     {
-      "id": 1
+      "id": 1,
       "profesor": "Nancy Pérez",
       "asignatura": "Programación de aplicaciones móviles",
       "seccion": "V002",
