@@ -142,6 +142,15 @@
       "seccion": "V001",
       "correo": "ale.gutierrez@docente.duoc.cl",
       "asiste": true
+    },
+    {
+      "id": 12,
+      "profesor": "David Larrondo",
+      "avatar": "../assets/avatars/av-do-22.png",
+      "asignatura": "Programación Web",
+      "seccion": "V004",
+      "correo": "da.larondo@docente.duoc.cl",
+      "asiste": true
     }
   ]
 }
